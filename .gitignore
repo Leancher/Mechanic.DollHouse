@@ -1,0 +1,10 @@
+*.pdsbak
+*.pdsprj.*
+Debug
+*.atsuo
+*.zip
+*.suo
+bin
+obj
+*.db
+*.bak
